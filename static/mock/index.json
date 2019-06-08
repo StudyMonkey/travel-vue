@@ -1,0 +1,78 @@
+{
+	"ret":true,
+	"data": {
+  		"swiperList": [
+  			{"id": "001", "imgUrl":"http://img1.qunarzz.com/piao/fusion/1809/ff/1bf7d3a4f6591002.jpg_750x200_40809f2a.jpg"},
+  			{"id": "002", "imgUrl":"http://img1.qunarzz.com/piao/fusion/1809/c6/2467595fffc3b302.jpg_750x200_cca13d51.jpg"},
+  			{"id": "003", "imgUrl":"http://img1.qunarzz.com/piao/fusion/1809/25/1580acca886c7802.jpg_750x200_d605ce66.jpg"},
+  			{"id": "004", "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/eb/f3d2fa5308fd5f02.jpg_750x200_38b8d6f7.jpg"},
+  			{"id": "005", "imgUrl":"http://img1.qunarzz.com/piao/fusion/1706/b9/6b91b49794f46402.jpg_750x200_d7f254e2.jpg"},
+  			{"id": "006", "imgUrl":"http://img1.qunarzz.com/piao/fusion/1809/31/da037478f37cf202.jpg_750x200_a02cf862.jpg"}
+  		],
+  		"iconList": [
+			{"id": "0001", "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png", "desc": "景点门票景点门票"},
+			{"id": "0002", "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png", "desc": "游乐场"},
+			{"id": "0003", "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png", "desc": "长沙必游"},
+			{"id": "0004", "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png", "desc": "亲子游"},
+			{"id": "0005", "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png", "desc": "一日游"},
+			{"id": "0006", "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png", "desc": "动植物园"},
+			{"id": "0007", "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png", "desc": "主题乐园"},
+			{"id": "0008", "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png", "desc": "湘西凤凰"},
+			{"id": "0009", "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png", "desc": "景点门票"}
+		],
+		"recommendList": [{
+				"id": "0001",
+				"imgUrl": "http://img1.qunarzz.com/sight/p0/1710/f5/f575b0f463058f96a3.img.jpg_200x200_e772e5ef.jpg",
+				"title": "宁乡炭河古城",
+				"desc": "浪漫大连首站，浪漫的海洋主题乐园"
+			},{
+				"id": "0002",
+				"imgUrl": "http://img1.qunarzz.com/sight/p0/201403/10/b7aa220089fa8054e6e012bafff63042.jpg_200x200_650160bf.jpg",
+				"title": "长沙生态动物园",
+				"desc": "浪漫大连首站，浪漫的海洋主题乐园"
+			},{
+				"id": "0003",
+				"imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/121fa500c65e619844a875ca6fe757bc.jpg_200x200_af9e5995.jpg",
+				"title": "灰汤华天城温泉",
+				"desc": "浪漫大连首站，浪漫的海洋主题乐园"
+			},{
+				"id": "0004",
+				"imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/fa3bace43953b4464b2251777579c147.jpg_200x200_b11a8b87.jpg",
+				"title": "宁乡灰汤紫龙湾温泉度假区",
+				"desc": "浪漫大连首站，浪漫的海洋主题乐园"
+			},{
+				"id": "0005",
+				"imgUrl": "http://img1.qunarzz.com/sight/p0/201301/14/8a57556d560e854093835fbb.jpg_200x200_19868a02.jpg",
+				"title": "酷贝拉长沙欢乐城",
+				"desc": "浪漫大连首站，浪漫的海洋主题乐园"
+			}
+		],
+		"weekendList": [{
+				"id": "0001",
+				"imgUrl": "http://img1.qunarzz.com/sight/source/1509/3a/e163a8e32517d9.jpg_r_640x214_4fd882d3.jpg",
+				"title": "宁乡炭河古城",
+				"desc": "浪漫大连首站，浪漫的海洋主题乐园"
+			},{
+				"id": "0002",
+				"imgUrl": "http://img1.qunarzz.com/sight/source/1505/fb/302620ed8350f8.jpg_r_640x214_25a07cb4.jpg",
+				"title": "长沙生态动物园",
+				"desc": "浪漫大连首站，浪漫的海洋主题乐园"
+			},{
+				"id": "0003",
+				"imgUrl": "http://img1.qunarzz.com/sight/source/1505/89/b2beff9f28b0db.jpg_r_640x214_94143396.jpg",
+				"title": "灰汤华天城温泉",
+				"desc": "浪漫大连首站，浪漫的海洋主题乐园"
+			},{
+				"id": "0004",
+				"imgUrl": "http://img1.qunarzz.com/sight/source/1505/ae/11f076c6cb7c47.jpg_r_640x214_6f643489.jpg",
+				"title": "宁乡灰汤紫龙湾温泉度假区",
+				"desc": "浪漫大连首站，浪漫的海洋主题乐园"
+			},{
+				"id": "0005",
+				"imgUrl": "http://img1.qunarzz.com/sight/source/1603/56/33894ef918e1a8.jpg_r_640x214_a9de6b4e.jpg",
+				"title": "酷贝拉长沙欢乐城",
+				"desc": "浪漫大连首站，浪漫的海洋主题乐园"
+			}
+		]					
+	}
+}
